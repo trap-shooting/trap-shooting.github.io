@@ -755,8 +755,8 @@ img {
 }
 
 .homepage-5 .welcome-area {
-  background: rgba(0, 0, 0, 0) url("assets/img/screenshots/ShootingPNG.png") no-repeat scroll center center/cover;
-}JPG
+  background: rgba(0, 0, 0, 0) url("../img/screenshots/ShootingPNG.png") no-repeat scroll center center/cover;
+}
 
 .homepage-6 .welcome-area {
   background: rgba(0, 0, 0, 0) url("../img/blog/blog-9.jpg") no-repeat scroll center center/cover;
